@@ -1,0 +1,1 @@
+I am a passionate and versatile developer with expertise in various domains including web development, backend development, mobile application development, and artificial intelligence. My aim is to leverage technology to create innovative solutions that make a positive impact.
