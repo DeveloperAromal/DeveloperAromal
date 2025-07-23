@@ -12,10 +12,10 @@ Welcome to my corner of the internet! I'm a passionate and versatile developer w
 
 My journey in tech has led me to dive deep into various exciting fields:
 
-- 🌐 **Web Development** – Intuitive and interactive web applications.
-- 🔧 **Backend Engineering** – Scalable, secure, and robust server-side magic.
-- 📱 **Mobile Development** – Engaging mobile experiences with Flutter & React Native.
-- 🤖 **AI & ML** – Training machines to think smart and solve real-world problems.
+-   🌐 **Web Development** – Crafting intuitive and interactive web applications.
+-   🔧 **Backend Engineering** – Building scalable, secure, and robust server-side magic.
+-   📱 **Mobile Development** – Creating engaging mobile experiences with **Flutter** & **React Native**.
+-   🤖 **AI & ML** – Training machines to think smart and solve real-world problems.
 
 > **Let's collaborate and create something extraordinary! ✨**
 
@@ -25,9 +25,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__developer_aromal__)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/DeveloperAromal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile/) ---
 
 ## 🛠️ My Tech Stack
 
@@ -64,11 +62,11 @@ My journey in tech has led me to dive deep into various exciting fields:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAromal&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAromal&show_icons=true&theme=radical&hide_border=true" alt="Aromal's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperAromal&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperAromal&theme=radical&hide_border=true" alt="Aromal's GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAromal&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAromal&layout=compact&theme=radical&hide_border=true" alt="Aromal's Top Languages" />
 </p>
 
 ---
@@ -76,7 +74,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperAromal&theme=gruvbox&column=7&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperAromal&theme=gruvbox&column=7&no-bg=true&no-frame=true" alt="Aromal's GitHub Trophies"/>
 </p>
 
 ---
@@ -84,20 +82,17 @@ My journey in tech has led me to dive deep into various exciting fields:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeveloperAromal/DeveloperAromal/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DeveloperAromal/DeveloperAromal/output/github-contribution-grid-snake.svg" alt="Aromal's GitHub Contribution Snake" />
 </p>
 
 ---
 
-## 📟 Visitor Counter
+## 📊 Visitor Counter
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DeveloperAromal&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=DeveloperAromal&icon=0&color=0" alt="Profile Visitor Count"/>
 </p>
 
 ---
 
 > _"Keep pushing boundaries and building amazing things!"_
-
----
-
