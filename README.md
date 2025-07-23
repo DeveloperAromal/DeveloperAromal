@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm DeveloperAromal!
+# 👋 Hello there! I'm Aromal!
 
 Welcome to my corner of the internet! I'm a passionate and versatile developer who loves bringing ideas to life through code. My mission is to craft innovative solutions that make a positive impact on the world. I thrive on solving complex problems and am always exploring new ways to elevate the digital experience.
 
