@@ -104,10 +104,9 @@ My journey in tech has led me to dive deep into various exciting fields:
 
 ## 📈 GitHub Stats
 
-<p align="center" style="display: flex; gap: 10px;">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAromal&show_icons=true&theme=gotham&hide_border=true" alt="Aromal's GitHub Stats" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=developeraromal&theme=gotham&hide_border=false" alt="Aromal's GitHub streaks" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAromal&layout=compact&theme=gotham&hide_border=true" alt="Aromal's Top Languages" />
 </p>
 
