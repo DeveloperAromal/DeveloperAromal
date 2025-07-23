@@ -25,7 +25,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__developer_aromal__)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/DeveloperAromal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile/) <!-- **IMPORTANT: Replace `your_linkedin_profile` with your actual LinkedIn profile URL** -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile/)
 
 ---
 
@@ -41,14 +41,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Perl](https://img.shields.io/badge/perl-%2339456D.svg?style=for-the-badge&logo=perl&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,6 +81,25 @@ My journey in tech has led me to dive deep into various exciting fields:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### 💼 Frameworks
+
+![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/reactjs-%2300C7B7.svg?style=for-the-badge&logo=reactjs&logoColor=white)
+![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/fiber-%230089DD.svg?style=for-the-badge&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/echo-%231E88E5.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rocket](https://img.shields.io/badge/rocket-%23C41E3A.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Actix](https://img.shields.io/badge/actix-%23282C34.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/axum-%234B8BBE.svg?style=for-the-badge&logo=rust&logoColor=white)
+![React Native](https://img.shields.io/badge/react--native-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Rocket](https://img.shields.io/badge/rocket.rs-%23ff6b6b.svg?style=for-the-badge&logo=rocket&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 ---
 
 ## 📈 GitHub Stats
@@ -111,5 +123,4 @@ My journey in tech has led me to dive deep into various exciting fields:
 ---
 
 > _"Keep pushing boundaries and building amazing things!"_
-
----
+"
