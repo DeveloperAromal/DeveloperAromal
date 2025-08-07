@@ -1,4 +1,4 @@
-0<h1 align="center">👋 Hey there, I'm Aromal!</h1>
+<h1 align="center">👋 Hey there, I'm Aromal!</h1>
 
 <p align="center">
   <i>Creative Developer | AI Explorer | Backend Engineer | Mobile Craftsman</i>
