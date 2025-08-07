@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Aromal!</h1>
+0<h1 align="center">👋 Hey there, I'm Aromal!</h1>
 
 <p align="center">
   <i>Creative Developer | AI Explorer | Backend Engineer | Mobile Craftsman</i>
@@ -23,7 +23,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 
 ## 🌐 Let's Connect!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__developer_aromal__)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__itz__aro_mal__?igsh=dnF5MTE4em5lZDI0)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/DeveloperAromal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developeraromal/)
 
