@@ -120,10 +120,12 @@ My journey in tech has led me to dive deep into various exciting fields:
 
 ---
 ---
-![](https://github-contributor-stats.vercel.app/api?username=masterdevsabith&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![](https://github-contributor-stats.vercel.app/api?username=masterdevsabith&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DeveloperAromal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![](https://visitcount.itsvg.in/api?id=masterdevsabith&icon=0&color=1)](https://visitcount.itsvg.in)
+
+---
 
 > _"Keep pushing boundaries and building amazing things!"_
 "
