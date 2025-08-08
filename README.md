@@ -119,6 +119,11 @@ My journey in tech has led me to dive deep into various exciting fields:
 </p>
 
 ---
+---
+![](https://github-contributor-stats.vercel.app/api?username=masterdevsabith&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=masterdevsabith&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 > _"Keep pushing boundaries and building amazing things!"_
 "
