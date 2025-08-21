@@ -112,20 +112,5 @@ My journey in tech has led me to dive deep into various exciting fields:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperAromal&theme=gruvbox&column=7&no-bg=true&no-frame=true" alt="Aromal's GitHub Trophies"/>
-</p>
-
----
----
-
-![](https://github-contributor-stats.vercel.app/api?username=DeveloperAromal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=DeveloperAromal&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
-
 > _"Keep pushing boundaries and building amazing things!"_
 "
