@@ -6,22 +6,22 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Welcome to my corner of the internet! I'm a passionate and versatile developer who loves bringing ideas to life through code. My mission is to craft innovative solutions that make a positive impact on the world. I thrive on solving complex problems and am always exploring new ways to elevate the digital experience.
 
 My journey in tech has led me to dive deep into various exciting fields:
 
-* 🌐 **Web Development** – Crafting intuitive and interactive web applications.
-* 🔧 **Backend Engineering** – Building scalable, secure, and robust server-side magic.
-* 📱 **Mobile Development** – Creating engaging mobile experiences with **Flutter** & **React Native**.
-* 🤖 **AI & ML** – Training machines to think smart and solve real-world problems.
+* **Web Development** – Crafting intuitive and interactive web applications.
+* **Backend Engineering** – Building scalable, secure, and robust server-side magic.
+* **Mobile Development** – Creating engaging mobile experiences with **Flutter** & **React Native**.
+* **AI & ML** – Training machines to think smart and solve real-world problems.
 
 > **Let's collaborate and create something extraordinary! ✨**
 
 ---
 
-## 🌐 Let's Connect!
+## Let's Connect!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__itz__aro_mal__?igsh=dnF5MTE4em5lZDI0)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/DeveloperAromal)
@@ -29,9 +29,9 @@ My journey in tech has led me to dive deep into various exciting fields:
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
-### 👨‍💻 Languages & Core
+### Languages & Core
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,7 +47,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🌐 Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -56,7 +56,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 ![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-### 🧠 AI & Data Science
+### AI & Data Science
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -64,7 +64,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🖥 Backend & DB
+### Backend & DB
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
@@ -74,14 +74,14 @@ My journey in tech has led me to dive deep into various exciting fields:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 💼 Frameworks
+### Frameworks
 
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -102,7 +102,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAromal&show_icons=true&theme=gotham&hide_border=true" alt="Aromal's GitHub Stats" />
