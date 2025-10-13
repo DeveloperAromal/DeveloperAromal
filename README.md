@@ -112,5 +112,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 
 ---
 
+[![An image of @developeraromal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/developeraromal)](https://holopin.io/@developeraromal)
+
 > _"Keep pushing boundaries and building amazing things!"_
 
