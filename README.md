@@ -107,7 +107,7 @@ My journey in tech has led me to dive deep into various exciting fields:
 <p style="display: flex; justify-content: space-between; gap: 20px;">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAromal&show_icons=true&theme=gotham&hide_border=true" alt="Aromal's GitHub Stats" /> -->
     <img src="https://nirzak-streak-stats.vercel.app/?user=developeraromal&theme=gotham&hide_border=true" alt="Aromal's GitHub streaks" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeveloperAromal&layout=compact&langs_count=11&theme=gotham&hide_border=true&hide=CSS,JAVASCRIPT,HTML,CMAKE" alt="Aromal's Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeveloperAromal&layout=compact&langs_count=10&theme=gotham&hide_border=true&hide=JavaScript,HTML,CSS,TypeScript,CMake,Markdown" />
 </p>
 
 ---
