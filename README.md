@@ -1,118 +1,96 @@
-<h1 align="center">👋 Hey there, I'm Aromal!</h1>
+<div align="center">
 
-<p align="center">
-  <i>Creative Developer | AI Explorer | Backend Engineer | Mobile Craftsman</i>
-</p>
-
----
-
-## About Me
-
-Welcome to my corner of the internet! I'm a passionate and versatile developer who loves bringing ideas to life through code. My mission is to craft innovative solutions that make a positive impact on the world. I thrive on solving complex problems and am always exploring new ways to elevate the digital experience.
-
-My journey in tech has led me to dive deep into various exciting fields:
-
-* **Web Development** – Crafting intuitive and interactive web applications.
-* **Backend Engineering** – Building scalable, secure, and robust server-side magic.
-* **Mobile Development** – Creating engaging mobile experiences with **Flutter** & **React Native**.
-* **AI & ML** – Training machines to think smart and solve real-world problems.
-
-> **Let's collaborate and create something extraordinary! ✨**
+```
+ █████╗ ██████╗  ██████╗ ███╗   ███╗ █████╗ ██╗
+██╔══██╗██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██║
+███████║██████╔╝██║   ██║██╔████╔██║███████║██║
+██╔══██║██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║██║
+     ██║  ██║██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║███████╗
+     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
+```
+</div>
 
 ---
 
-## Let's Connect!
+## `$ whoami`
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__itz__aro_mal__?igsh=dnF5MTE4em5lZDI0)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/DeveloperAromal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developeraromal/)
+```ts
+const aromal = {
+  title:    "Creative Developer & AI Explorer",
+  location: "Kerala, India",
+  focus:    ["Web", "Backend", "Mobile", "AI/ML"],
+  currently: "Building scalable systems & training smarter models",
+  motto:    "Keep pushing boundaries and building amazing things!"
+};
+```
+
+I'm a versatile engineer who thrives at the intersection of **elegant design** and **robust engineering**. I love turning complex problems into intuitive, impactful solutions — whether that's a slick mobile app, a high-performance API, or a machine that learns.
 
 ---
 
-## My Tech Stack
+## `$ ls ./stack`
 
-### Languages & Core
+### Core Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,dart,java,cpp,cs,rust&theme=dark" />
 
-### Frontend
+### Frontend & Mobile
 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vue,angular,html,css&theme=dark" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,nestjs,spring&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&theme=dark" />
 
 ### AI & Data Science
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 
-### Backend & DB
+> Also working with: **Pandas** · **NumPy** · **Scikit-learn** · **Jupyter**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+### Cloud, DevOps & Tools
 
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Frameworks
-
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/reactjs-%2300C7B7.svg?style=for-the-badge&logo=reactjs&logoColor=white)
-![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/fiber-%230089DD.svg?style=for-the-badge&logo=go&logoColor=white)
-![Echo](https://img.shields.io/badge/echo-%231E88E5.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rocket](https://img.shields.io/badge/rocket-%23C41E3A.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Actix](https://img.shields.io/badge/actix-%23282C34.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Axum](https://img.shields.io/badge/axum-%234B8BBE.svg?style=for-the-badge&logo=rust&logoColor=white)
-![React Native](https://img.shields.io/badge/react--native-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Rocket](https://img.shields.io/badge/rocket.rs-%23ff6b6b.svg?style=for-the-badge&logo=rocket&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vercel&theme=dark" />
 
 ---
 
-## GitHub Stats
+## `$ cat ./stats.json`
 
-<p style="display: flex; justify-content: space-between; gap: 20px;">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAromal&show_icons=true&theme=gotham&hide_border=true" alt="Aromal's GitHub Stats" /> -->
-    <img src="https://nirzak-streak-stats.vercel.app/?user=developeraromal&theme=gotham&hide_border=true" alt="Aromal's GitHub streaks" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeveloperAromal&layout=compact&langs_count=10&theme=gotham&hide_border=true&hide=JavaScript,HTML,CSS,TypeScript,CMake,Markdown" />
-</p>
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=developeraromal&theme=gotham&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165" alt="streak stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeveloperAromal&layout=compact&langs_count=8&theme=gotham&hide_border=true&bg_color=0d1117&title_color=00d9ff&hide=JavaScript,HTML,CSS,TypeScript,CMake,Markdown" height="165" alt="top languages" />
+
+</div>
 
 ---
 
-[![An image of @developeraromal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/developeraromal)](https://holopin.io/@developeraromal)
+## `$ git log --oneline`
 
-> _"Keep pushing boundaries and building amazing things!"_
+```
+feat: explore new AI/ML paradigms        
+build: scale backend systems to infinity 
+design: craft pixel-perfect mobile UIs   
+deploy: ship products users love         
+```
 
+---
+
+## `$ cat ./achievements`
+
+[![Holopin Badges](https://holopin.me/developeraromal)](https://holopin.io/@developeraromal)
+
+---
+
+<div align="center">
+
+**Let's build something extraordinary together.**
+
+*Open to collaborations, freelance work, and interesting conversations.*
+
+<img src="https://komarev.com/ghpvc/?username=DeveloperAromal&color=00d9ff&style=flat-square&label=profile+views" alt="profile views" />
+
+</div>
